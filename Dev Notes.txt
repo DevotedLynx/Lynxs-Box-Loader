@@ -1,0 +1,23 @@
+https://community.bistudio.com/wiki/Category:Command_Group:_Vehicle_in_Vehicle_Transport
+https://ace3.acemod.org/wiki/framework/interactionmenu-framework
+
+v1
+
+potential features
+preview before deployment
+
+Models needed,
+Packed Tent inner (one for each faction)
+Tent Cover packed (one for each faction optional medical addition)
+tent floor packed
+new packed cammo net (expand into the vanilla nettings)
+
+packed hesco (tan and tropical)
+empty deployed hesco's
+
+could add packed animations to the vanilla items? the use those to animate or just model swap with the preview and carry before deploy
+
+v2
+
+add snapping points and items for the connector tents
+hemmt refit
